@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ContadorPropina</string>
+    <string name="lblCuenta">Cuenta</string>
+    <string name="lblEuros">€</string>
+    <string name="txtCuentaDefault">0.00</string>
+    <string name="lblPropina">Propina</string>
+    <string name="lblPorcentajePropina">% Propina</string>
+    <string name="porcentajePropinaDefault">3</string>
+    <string name="lblPorcientoMedio">%</string>
+    <string name="Total">Total</string>
+    <string name="redondearTotal">Redondear</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="comensales">Comensales</string>
+    <string name="porComensal">Por comensal</string>
+    <string name="comensalesDefecto">1</string>
+</resources>
